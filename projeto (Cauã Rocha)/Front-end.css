@@ -1,0 +1,86 @@
+body{
+    background-color:green ;
+}
+#titulo{
+background-color: gold;
+padding: 40px;
+}
+#simbolo{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    top: 26px;
+    left: 430px;
+}
+#produto1{
+    
+    width: 200px; 
+    height :250px;
+    margin: 30px;
+    color: gold;
+}
+#produto2{
+    width: 200px; height: 250px;
+    margin: 30px; color: gold;
+}
+#produto3{
+    width: 200px; height: 250px;
+    margin: 30px; background-color: gold;
+}
+#produto4{
+    width: 200px; height: 250px;
+    margin: 30px; background-color: gold;
+}
+.caixa {
+    
+width: 300px;
+height: 490px;
+border: 1px solid black;
+ border-radius:  10px ;
+ background-color: gold;
+}
+.caixa2{
+width: 300px;
+height: 490px;
+position: absolute;
+top: 235px;
+left: 330px;
+background-color: gold;
+}
+.caixa2{
+    width: 300px;
+    height: 490px;
+    border: 1px solid rgba(5, 5, 5, 0.808);
+ border-radius:  10px ;
+}
+.caixa3{
+    width: 300px;
+    height: 490px;
+    position: absolute;
+    top:235px;
+    left: 650px;
+    background-color: gold;
+    }
+    .caixa3{
+        width: 300px;
+        height: 490px;
+        border: 1px solid rgba(5, 5, 5, 0.808);
+     border-radius:  10px ;
+    }
+    .caixa4{
+        width: 300px;
+        height: 490px;
+        position: absolute;
+        top: 235px;
+        left: 970px;
+        background-color: gold;
+        }
+        .caixa4{
+            width: 300px;
+            height: 490px;
+            border: 1px solid rgba(5, 5, 5, 0.808);
+         border-radius:  10px ;
+        }
+h2{
+    color: green;
+}
