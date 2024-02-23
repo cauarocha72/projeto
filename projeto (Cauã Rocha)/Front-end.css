@@ -46,10 +46,6 @@ position: absolute;
 top: 235px;
 left: 330px;
 background-color: gold;
-}
-.caixa2{
-    width: 300px;
-    height: 490px;
     border: 1px solid rgba(5, 5, 5, 0.808);
  border-radius:  10px ;
 }
@@ -60,10 +56,6 @@ background-color: gold;
     top:235px;
     left: 650px;
     background-color: gold;
-    }
-    .caixa3{
-        width: 300px;
-        height: 490px;
         border: 1px solid rgba(5, 5, 5, 0.808);
      border-radius:  10px ;
     }
@@ -74,10 +66,6 @@ background-color: gold;
         top: 235px;
         left: 970px;
         background-color: gold;
-        }
-        .caixa4{
-            width: 300px;
-            height: 490px;
             border: 1px solid rgba(5, 5, 5, 0.808);
          border-radius:  10px ;
         }
