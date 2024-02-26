@@ -1,0 +1,85 @@
+body{
+    background-color:green ;
+}
+#titulo{
+background-color: gold;
+padding: 40px;
+}
+#simbolo{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    top: 26px;
+    left: 390px;
+}
+#item1{
+    
+    width: 200px; 
+    height :250px;
+    margin: 30px;
+    color: gold;
+}
+#item2{
+    width: 200px; height: 250px;
+    margin: 30px; color: gold;
+}
+#item3{
+    width: 200px; height: 250px;
+    margin: 30px; background-color: gold;
+}
+#item4{
+    width: 200px; height: 250px;
+    margin: 30px; background-color: gold;
+}
+.caixa {
+    
+width: 300px;
+height: 490px;
+border: 6px solid ;
+border-color: gold;
+ border-radius:  10px ;
+ background-color: white;
+ position: absolute;
+ top: 235px;
+ left: 10px; ;
+}
+.caixa2{
+width: 300px;
+height: 490px;
+position: absolute;
+top: 235px;
+left: 330px;
+border: 6px solid ;
+border-color: gold;
+ border-radius:  10px ;
+ background-color: white;
+}
+.caixa3{
+    width: 300px;
+    height: 490px;
+    position: absolute;
+    top:235px;
+    left: 650px;
+    border: 6px solid ;
+border-color: gold;
+ border-radius:  10px ;
+ background-color: white;
+    }
+    .caixa4{
+        width: 300px;
+        height: 490px;
+        position: absolute;
+        top: 235px;
+        left: 970px;
+        border: 6px solid ;
+border-color: gold;
+ border-radius:  10px ;
+ background-color: white;
+        }
+h1{
+    margin-left: 10px;
+}
+h2{
+    color: green;
+    margin-left: 10px;
+}
